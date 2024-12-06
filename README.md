@@ -1,1 +1,1 @@
-**SCARA Arm Design**
+# SCARA Arm Design
